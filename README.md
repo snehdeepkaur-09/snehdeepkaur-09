@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Snehdeep Kaur
 
-### 🚀 Computer Science & AI Student | Women in STEM
+### 🚀 2nd year Computer Science & AI Student @BCU | Women in STEM
 
 > "To me, being a woman in STEM isn’t just about representation - it’s about reshaping the future with every line of code."
 
