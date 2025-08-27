@@ -42,11 +42,19 @@ I'm a first-generation international student in the UK passionate about **AI, Ro
 ---
 
 ## 🌟 Experience & Volunteering
-- **Student Ambassador:** IBM Z & Wiser Academy  
-- **Tutor:** Study Mind, TTN  
-- **Mentor:** SheCanCode, IntoUniversity  
-- **Event Manager:** Make Progress Lifestyle Event  
-- **Activity Leader:** Embassy Summer  
+**Current Roles:**  
+- **Student Ambassador** – IBM Z & Wiser Academy  
+- **Tutor** – Study Mind & TTN  
+- **Mentor** – SheCanCode & IntoUniversity  
+- **Event Manager** – Make Progress Lifestyle Event  
+- **Domiciliary Care Worker** – Caring Hands  
+
+**Past Roles:**  
+- **ICT Teacher (Internship)** - Matrix Academy Trust
+- **Activity Leader (Internship)** – Embassy Summer  
+- **Course Representative** – Birmingham City University  
+- **Receptionist & Data Entry** – The Imperial School  
+
 
 ---
 
