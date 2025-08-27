@@ -19,7 +19,7 @@ I'm a first-generation international student in the UK passionate about **AI, Ro
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **Portfolio Website** | Personal website showcasing projects, skills, and achievements | HTML, CSS, JS, Python | [View](https://snehdeepkaur-portfolio.vercel.app/) |
+| **Portfolio Website** | Personal website showcasing projects, skills, and achievements | HTML, CSS, JS | [View](https://snehdeepkaur-portfolio.vercel.app/) |
 | **Robotic Nurse** | AI-powered robotic assistant for NHS staff: automated cleaning & medicine delivery. Featured at Innovation Fest 2025 | Arduino, AI, Robotics, 3D Design | [View](https://snehdeepkaur-portfolio.vercel.app/#projects) |
 | **Space for Good UK Competition** | AI-Enhanced Space-Based Solar Power (SBSP). Top 8 Finalist nationwide in Viasat University Challenge | AI, Aerospace, Satellite Tech, Google Colab | [View](https://snehdeepkaur-portfolio.vercel.app/#projects) |
 
