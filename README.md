@@ -4,7 +4,7 @@
 
 > "To me, being a woman in STEM isn’t just about representation - it’s about reshaping the future with every line of code."
 
-I'm a first-generation international student in the UK passionate about **AI, Robotics, and Software Development**. I turn ideas into reality—whether building innovative projects, mentoring students, or managing impactful events.  
+I'm a first-generation international student in the UK passionate about **AI, Robotics, Data Analytics and Software Development**. I turn ideas into reality, whether building innovative projects, mentoring students, or managing impactful events.  
 
 ---
 
