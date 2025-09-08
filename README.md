@@ -19,6 +19,7 @@ I'm a first-generation international student in the UK passionate about **AI, Ro
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
+| **Employee Attrition Prediction** | Predicted whether employees will stay or leave using Logistic Regression to help HR teams identify high-risk employees | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | [View](https://github.com/snehdeepkaur-09/employee-dataanalyis) |
 | **Portfolio Website** | Personal website showcasing projects, skills, and achievements | HTML, CSS, JS | [View](https://snehdeepkaur-portfolio.vercel.app/) |
 | **Robotic Nurse** | AI-powered robotic assistant for NHS staff: automated cleaning & medicine delivery. Featured at Innovation Fest 2025 | Arduino, AI, Robotics, 3D Design | [View](https://snehdeepkaur-portfolio.vercel.app/#projects) |
 | **Space for Good UK Competition** | AI-Enhanced Space-Based Solar Power (SBSP). Top 8 Finalist nationwide in Viasat University Challenge | AI, Aerospace, Satellite Tech, Google Colab | [View](https://snehdeepkaur-portfolio.vercel.app/#projects) |
