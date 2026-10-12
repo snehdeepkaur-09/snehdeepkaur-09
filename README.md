@@ -23,15 +23,15 @@ I'm a first-generation international student in the UK who likes backend enginee
 
 ## 💻 Featured projects
 
-| Project | What it does | Tech | 
-
-| **BOLSTR** | Student Q&A platform: posts, replies, appreciation, reporting and admin moderation, with a secure session-based login | Python, Flask, MySQL, REST APIs, Bruno | 
-| **Cohort Identification System** | Prototype that joins data from multiple council services to flag residents at risk of housing instability, built with privacy in mind. *1st Place, invited to present to Birmingham City Council* | Data analysis, privacy-by-design | 
-| **Library Management System** | Java app for patrons, loans, returns, text-file persistence and soft-delete, built with interfaces, inheritance and encapsulation | Java, OOP | 
-| **Employee Attrition Prediction** | Logistic Regression model that predicts which employees are likely to leave, so HR can act early | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | 
-| **Space for Good UK** | AI-enhanced space-based solar power concept. *Top 8 UK Finalist, Viasat University Challenge* | AI, Satellite tech, Google Colab | 
-| **Robotic Nurse** | AI-powered assistant for NHS staff: automated cleaning and medicine delivery. *Featured at Innovation Fest 2025* | Arduino, AI, Robotics, 3D design | 
-| **Portfolio website** | Personal site with projects, skills and achievements | HTML, CSS, JavaScript, Vercel | 
+| Project | What it does | Tech |
+|---|---|---|
+| **BOLSTR** | Student Q&A platform with posts, replies, appreciation, reporting, secure session-based authentication, and admin moderation. | Python, Flask, MySQL, REST APIs, Bruno |
+| **Cohort Identification System** | Public-sector prototype combining data from multiple council services to identify potential housing instability, designed with privacy and responsible data use in mind. **1st Place; invited to present to Birmingham City Council.** | Data Analysis, Privacy-by-Design |
+| **Library Management System** | Java application supporting patron management, loans, returns, text-file persistence, and soft deletion, built using core object-oriented principles. | Java, OOP |
+| **Employee Attrition Prediction** | Machine learning model using Logistic Regression to predict employee attrition and help HR teams identify employees who may be at risk of leaving. | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| **Space for Good UK** | AI-enhanced Space-Based Solar Power concept exploring satellite-enabled renewable energy. **Top 8 UK Finalist — Viasat University Challenge.** | AI, Google Colab, Space Technology |
+| **Robotic Nurse** | Robotics concept designed to support NHS staff with automated cleaning and medicine delivery. **Featured at Innovation Fest 2025.** | Arduino, AI, Robotics, 3D Design |
+| **Portfolio Website** | Personal website showcasing projects, technical skills, and achievements. | HTML, CSS, JavaScript, Vercel |
 
 ---
 
