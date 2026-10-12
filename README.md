@@ -24,7 +24,7 @@ I'm a first-generation international student in the UK who likes backend enginee
 ## 💻 Featured projects
 
 | Project | What it does | Tech | 
-|---|---|---|---|
+
 | **BOLSTR** | Student Q&A platform: posts, replies, appreciation, reporting and admin moderation, with a secure session-based login | Python, Flask, MySQL, REST APIs, Bruno | 
 | **Cohort Identification System** | Prototype that joins data from multiple council services to flag residents at risk of housing instability, built with privacy in mind. *1st Place, invited to present to Birmingham City Council* | Data analysis, privacy-by-design | 
 | **Library Management System** | Java app for patrons, loans, returns, text-file persistence and soft-delete, built with interfaces, inheritance and encapsulation | Java, OOP | 
