@@ -59,14 +59,16 @@ I'm a first-generation international student in the UK who likes backend enginee
 ## 🌟 Experience
 
 **Now**
-- **IT Service Analyst (placement year)**, HMRC: supporting about 10 live services in ServiceNow
-- **Student Ambassador**, IBM Z and Wiser Academy
-- **Mentor**, SheCanCode and IntoUniversity · **Tutor**, Study Mind and TTN
+- **IT Service Analyst (placement year)**, HMRC: Working within HMRC’s CDIO Enterprise Live Services, specifically the Pre-Live Change Enablement team, supporting the assessment and governance of IT changes before they go live.
+- **Student Ambassador**, IBM Z 
+- **Mentor**, SheCanCode and IntoUniversity · 
 
 **Before**
 - **Software Engineer Intern**, Viasat (Jun to Sep 2026)
 - **ICT Teacher Intern**, Matrix Academy Trust
 - **Course Representative**, Birmingham City University (80+ students)
+- **Student Ambassador**, Wiser Academy
+- **Tutor**, Study Mind and TTN
 - **Event Manager**, Make Progress Lifestyle Event · **Activity Leader**, Embassy Summer
 
 ---
