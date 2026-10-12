@@ -32,6 +32,7 @@ I'm a first-generation international student in the UK who likes backend enginee
 | **Space for Good UK** | AI-enhanced space-based solar power concept. *Top 8 UK Finalist, Viasat University Challenge* | AI, Satellite tech, Google Colab | 
 | **Robotic Nurse** | AI-powered assistant for NHS staff: automated cleaning and medicine delivery. *Featured at Innovation Fest 2025* | Arduino, AI, Robotics, 3D design | 
 | **Portfolio website** | Personal site with projects, skills and achievements | HTML, CSS, JavaScript, Vercel | 
+
 ---
 
 ## 🛠 Skills
